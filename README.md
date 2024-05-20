@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
 </p><div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
@@ -64,7 +64,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%AB+Contact+%F0%9F%93%AB&font=Fira%20Code&center=true&width=380&height=20&duration=1000&pause=5000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%AB+Contact+%F0%9F%93%AB&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
 </p>
 <div align="center">
   <a href="minerva01st@gmail.com">
