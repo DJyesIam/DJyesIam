@@ -24,15 +24,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%9A+Studying+%F0%9F%93%9A&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
-</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
 <br>
 
 <p align="center">
