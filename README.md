@@ -22,10 +22,6 @@
 
 <br>
 
-<br>
-
-<br>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9B%A0+Tools+%F0%9F%9B%A0&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
 </p>
