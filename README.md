@@ -5,11 +5,19 @@
 <!--내용 부분-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
-</p><div align="center">
+</p>
+<div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/arduino-00878Fstyle=for-the-badge&logo=arduino&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/matlab-FF3621?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/yolo-7B3FE4?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
 <br>
