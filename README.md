@@ -58,5 +58,5 @@
 
 <br>
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=5000&random=false&width=435&lines=%F0%9F%93%AB+Contact+%F0%9F%93%AB)" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
