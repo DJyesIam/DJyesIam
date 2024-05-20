@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!%20&fontSize=70%fontColor=0089FF" />
 </div>
 
 <!--내용 부분-->
