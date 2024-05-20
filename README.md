@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/arduino-00878Fstyle=for-the-badge&logo=arduino&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/matlab-FF3621?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/yolo-7B3FE4?style=for-the-badge&logoColor=white" />&nbsp
