@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/yolo-7B3FE4?style=for-the-badge&logoColor=white" />&nbsp
 </div>
 
-<br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9B%A0+Tools+%F0%9F%9B%A0&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/ros-22314E.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
 </div>
 
-<br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%AB+Contact+%F0%9F%93%AB&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
