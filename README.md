@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%96+Education+%F0%9F%93%96&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
+</p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!&fontSize=70" />
+  2016.03 ~ 2019.02 : Seoil High School (Daejeon)
+  2019.03 ~         : Seoul National University of Science and Technology
+                      Mechanical System Design Engineering
 </div>
+
 
 <!--내용 부분-->
 <p align="center">
