@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!&fontSize=70" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJyesIam&layout=compact)
-
 <!--내용 부분-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Tech+Stack+%E2%9C%A8&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
