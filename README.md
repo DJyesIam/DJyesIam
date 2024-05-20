@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!&fontColor=d6ace6&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&theme=dark&height=300&section=header&text=Welcome%20to%20DJ's%20Github!&fontSize=70" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJyesIam&layout=compact)
 
 <!--내용 부분-->
 <p align="center">
