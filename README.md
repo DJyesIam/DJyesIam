@@ -3,11 +3,12 @@
 </p>
 
 <h3 align="center">
-  2016.03 ~ 2019.02
-  Seoil High School (Daejeon)</h3>
+  2016.03 ~ 2019.02 <br>
+  Seoil High School (Daejeon)
+</h3>
 <h3 align="center">
-  2019.03 ~
-  Seoul National University of Science and Technology
+  2019.03 ~ <br>
+  Seoul National University of Science and Technology <br>
   Mechanical System Design Engineering</h3>
 
 <br>
