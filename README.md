@@ -9,7 +9,7 @@
 <h3 align="center">
   2019.03 ~ <br>
   Seoul National University of Science and Technology <br>
-  Mechanical System Design Engineering</h3>
+  - Mechanical System Design Engineering</h3>
 
 <br>
 <br>
