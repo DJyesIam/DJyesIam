@@ -2,8 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%96+Education+%F0%9F%93%96&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=5000">
 </p>
 
-<h3 align="left">2016.03 ~ 2019.02 : Seoil High School (Daejeon)</h3>
-<h3 align="left">2019.03 ~         : Seoul National University of Science and Technology - Mechanical System Design Engineering</h3>
+<h3 align="center">
+  2016.03 ~ 2019.02
+  Seoil High School (Daejeon)</h3>
+<h3 align="center">
+  2019.03 ~
+  Seoul National University of Science and Technology
+  Mechanical System Design Engineering</h3>
 
 <br>
 <br>
